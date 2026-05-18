@@ -6,7 +6,8 @@
 ## 👨‍🌾 About Me
 
 🌱 Currently studying **Agriculture** at  
-:contentReference[oaicite:3]{index=3}
+IUBAT - International University of Business Agriculture and Technology
+
 
 🤖 Learning **AI, Machine Learning & Data Science for Agriculture**
 
