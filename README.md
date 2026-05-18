@@ -1,99 +1,67 @@
-<h1 align="center">MD. FOYSHAL RAHMAN</h1>
-<h3 align="center">🌱 B.Sc. Agriculture Student | AgriTech Enthusiast | Research Learner | Future Global Agricultural Leader</h3>
-
-<p align="center">
-Building the future of agriculture through science, technology, and innovation.
-</p>
+<h1 align="center">Hi 👋, I'm MD. FOYSHAL RAHMAN</h1>
+<h3 align="center">BSc in Agriculture Student | Future AgriTech Researcher | AI Learner  </h3>
 
 ---
 
-## 🌾 About Me
+## 👨‍🌾 About Me
 
-I am an undergraduate agriculture student at the :contentReference[oaicite:0]{index=0}, passionate about modern agriculture, agricultural research, and technology-driven farming solutions.
+🌱 Currently studying **Agriculture** at  
+:contentReference[oaicite:3]{index=3}
 
-My academic and professional interests focus on:
+🤖 Learning **AI, Machine Learning & Data Science for Agriculture**
 
-🔬 Agricultural Research  
-🌱 Sustainable Agriculture  
-🚜 Precision Farming  
-📊 Agricultural Data Analytics  
-🤖 Artificial Intelligence in Agriculture  
-🌍 Climate-Smart Agriculture  
-👨‍🌾 Rural Development & Food Security  
+🌍 Interested in:
+- Precision Agriculture
+- Smart Farming
+- Climate-Smart Agriculture
+- Agricultural Research
+- International Youth Leadership
 
-I believe the future of agriculture lies at the intersection of **science, technology, and global collaboration**.
-
----
-
-## 🎓 Academic Journey
-
-**Degree:** Bachelor of Science in Agriculture  
-**Expected Graduation:** 2030  
-
-### Current Areas of Study
-- Crop Science
-- Soil Science
-- Plant Physiology
-- Genetics & Biotechnology
-- Agricultural Economics
-- Agricultural Extension
-- Research Methodology
+🎯 Goal:
+To become an **AgriTech Innovator** and work globally in agriculture, research, and AI.
 
 ---
 
-## 💻 Technical Learning
-
-Currently building skills in:
+## 🚀 Current Learning Journey
 
 - Python
 - Data Analysis
 - Machine Learning
-- Geographic Information Systems (GIS)
-- Remote Sensing
-- Agricultural Statistics
+- Deep Learning
+- GIS for Agriculture
+- Agricultural Research Methodology
 
 ---
 
-## 🌍 Professional Development
+## 🛠 Tech Stack
 
-Actively exploring opportunities in:
-
-- International Agricultural Organizations
-- Student Leadership Programs
-- Research Internships
-- Global Agriculture Conferences
-- Agricultural Innovation Networks
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![AI](https://img.shields.io/badge/AI-Learning-green)
+![ML](https://img.shields.io/badge/MachineLearning-Active-orange)
+![Agriculture](https://img.shields.io/badge/Agriculture-Research-success)
 
 ---
 
-## 📂 Featured Future Projects
 
-Coming soon:
-
-- Smart Farming Analytics
-- Crop Disease Detection using AI
-- Precision Agriculture Dashboard
-- Soil Data Analysis Projects
-- Agricultural Research Documentation
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: foyshalrahman3@gmail.com  
+
 💼 LinkedIn: Coming Soon  
-🌐 Portfolio: Coming Soon  
+
+🌐 Portfolio Website: Coming Soon
 
 ---
 
-<p align="center">
-<b>“Empowering Agriculture Through Knowledge, Research, and Innovation.”</b> 🌱
-</p>
+### "Combining Agriculture + AI to Feed the Future 🌱🤖"
